@@ -14,4 +14,10 @@ A commercial, embeddable business rules engine for .NET — visual rule editor, 
 - [`Rule.Demo.React`](https://github.com/codeeffects-software/Rule.Demo.React) - ASP.NET Core (.NET 8+) + React + Reflection source model
 - [`Rule.Demo.Asp.DataFiltering`](https://github.com/codeeffects-software/Rule.Demo.Asp.DataFiltering) - Demonstrates how to use the rule editor as a visual search interface that generates `IQueryable` LINQ queries against an included SQL Server test database in an ASP.NET Core (.NET 8+) web application.
 
+## About Code Effects Software
+
+Code Effects Software has been building business rules automation software since 2009. Our embeddable rules engine is used by organizations across finance, insurance, healthcare, and government to let non-developers manage complex business logic - without waiting on engineering for every rule change.
+
+With the v6 release, CodeEffects adds AI/LLM-assisted rule authoring, making it faster than ever for business users to describe rules in plain language and have them translated into working logic.
+
 🔗 [CodeEffects.com](https://codeeffects.com) · [Docs](https://codeeffects.com/decision-automation) · [NuGet](https://www.nuget.org/packages?q=codeeffects) · [npm](https://www.npmjs.com/package/codeeffects)
