@@ -2,7 +2,7 @@
 
 # Code Effects
 
-A commercial, embeddable business rules engine for .NET — visual rule editor, AI/LLM-assisted rule authoring and execution, no-code for business users, full control for developers.
+A commercial, embeddable business rules engine for .NET - visual rule editor, AI/LLM-assisted rule authoring and execution, no-code for business users, full control for developers.
 
 ## Demos in this org
 
